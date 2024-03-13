@@ -1,0 +1,23 @@
+[
+
+    {
+        "name": "Fluffy",
+        "weight": "5 kg",
+        "breed": "Persian",
+        "image": "kat1.png"
+    },
+    {
+        "name": "Whiskers",
+        "weight": "3.5 kg",
+        "breed": "Siamese",
+        "image": "kat2.png"
+    },
+    {
+        "name": "Tiger",
+        "weight": "7 kg",
+        "breed": "Bengal",
+        "image": "kat3.png"
+    }
+
+
+]

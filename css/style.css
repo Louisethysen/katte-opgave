@@ -1,0 +1,11 @@
+
+img {
+    width: 20rem;
+}
+
+.katte-data {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
